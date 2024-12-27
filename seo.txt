@@ -1,0 +1,83 @@
+Lab Assignment-1
+
+
+
+Create a style sheet to set the formatting for <h1> and all headings, <p>, and <a> tags, and embed it into a web page of your choice.
+
+
+Use meta tags effectively on your web page. Write meta descriptions and meta keywords. Analyze how meta tags affects SEO.
+
+
+Design a web page and Embed a video, audio, image and other interactive element (like map) on your web page. How does this multimedia content affect page loading time? Analyze it and Mention that in points. 
+
+
+Identify the key elements of On-Page SEO. Implement On-Page SEO for the web page.
+
+
+Develop a link-building Building Plan for your website. List strategies for acquiring high-quality backlinks.
+
+
+Implement Off-Page SEO by creating different types of backlinks, such as:
+Do Follow Backlinks
+No Follow Backlinks
+	on different types of backlink sites such as:
+Guest Posting Sites
+Social Bookmarking Sites
+Article Submission Sites
+Blog Submission Sites
+Problem Submission Sites
+	NOTE: Create 5 backlinks for each type.
+
+Write a blog post for your site. Incorporate SEO-friendly practices, including keyword optimisation.
+Submit your blog post to a guest blogging platform or directory. How will this improve your off-page SEO?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lab Assignment-2
+
+
+
+Conduct a backlink audit for your website. How many high-quality backlinks are linked to your site?
+
+Create social media profiles for your website. How does social media engagement affect off-page SEO?
+
+Test the mobile responsiveness of your web page. What changes are required to make the site SEO-friendly for mobile users?
+
+Submit the source code of your web page, showing how you embedded the style sheet and applied SEO best practices. 
+
+Identify relevant keywords for your web page. How will these keywords impact your site's SEO?
+
+
+Lab Assignment-3
+
+
+
+
+Add a navigation bar and footer to your web page. Style them using CSS, consistently across all pages. 
+
+Measure your website’s SEO success using Google Analytics or another SEO tool. Provide a report.
+
+Analyze the importance of local SEO for your website. What steps would you take to optimize for local search? 
+
+Identify potential influencers or blogs for link building. How can they enhance your site's visibility? 
+
+Submit a report detailing your SEO strategies and their expected impact on search engine rankings. 
